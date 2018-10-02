@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ThoughtTrace.ContactManager.Data",
+    "\\ThoughtTrace.ContactManager.Data\\Model",
+    "\\ThoughtTrace.ContactManager.Data\\Properties",
+    "\\ThoughtTrace.ContactManager.WebApi",
+    "\\ThoughtTrace.ContactManager.WebApi\\App_Start",
+    "\\ThoughtTrace.ContactManager.WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\ThoughtTrace.ContactManager.sln",
+  "PreviewInSolutionExplorer": false
+}

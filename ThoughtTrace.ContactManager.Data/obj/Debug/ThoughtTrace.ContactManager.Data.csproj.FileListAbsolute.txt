@@ -1,0 +1,9 @@
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\bin\Debug\ThoughTrace.ContactManager.Data.dll
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\bin\Debug\ThoughTrace.ContactManager.Data.pdb
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\obj\Debug\ThoughtTrace.ContactManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\obj\Debug\ThoughTrace.ContactManager.Data.dll
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\obj\Debug\ThoughTrace.ContactManager.Data.pdb
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\obj\Debug\ThoughtTrace.ContactManager.Data.csprojAssemblyReference.cache
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nithi\Desktop\ThoughtTrace\thoughttrace-coding-challenge\server\ThoughtTrace.ContactManager.Data\obj\Debug\ThoughtTrace.ContactManager.Data.csproj.CopyComplete
